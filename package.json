@@ -1,0 +1,27 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayleQubit/promise.git"
+  },
+  "author": "kayleQubit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayleQubit/promise/issues"
+  },
+  "homepage": "https://github.com/kayleQubit/promise#readme"
+}
